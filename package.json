@@ -1,7 +1,7 @@
 {
   "name": "dom-knob",
   "version": "1.0.0",
-  "description": "",
+  "description": "Get the angle between the center of an element and a mouse/touch on drag.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
