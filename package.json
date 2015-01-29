@@ -1,0 +1,25 @@
+{
+  "name": "dom-knob",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olivierrr/dom-knob.git"
+  },
+  "keywords": [
+    "dom",
+    "knob",
+    "dial",
+    "angle"
+  ],
+  "author": "olivierrr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olivierrr/dom-knob/issues"
+  },
+  "homepage": "https://github.com/olivierrr/dom-knob"
+}
