@@ -1,5 +1,5 @@
 # dom-knob
-Get the angle between the center of an element and users finger/mouse on drag
+Get the angle between the center of an element and a mouse/touch on drag.
 
 ### install
 ```sh
